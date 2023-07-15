@@ -11,7 +11,7 @@ This tutorial aims to provide you with a comprehensive understanding of trees, s
 
 A tree is a collection of nodes connected by edges. It is a non-linear data structure that represents a hierarchical relationship between elements. A tree consists of a root node and zero or more child nodes. Each child node can have its own children, forming a hierarchical structure.
 
-![Tree Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/tree.png)
+![Tree Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/trees.png)
 
 ## Tree Terminology
 
