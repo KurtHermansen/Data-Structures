@@ -239,7 +239,7 @@ tree = insert_node(tree, 20)
 tree = insert_node(tree, 40)
 tree = insert_node(tree, 60)
 tree = insert_node(tree, 80)
-
+print("\n=========== TREE TESTS ===========")
 # Expected Output (inorder traversal): 20, 30, 40, 50, 60, 70, 80
 print("Inorder Traversal:")
 inorder_traversal(tree)
@@ -267,3 +267,4 @@ min_value = find_min(tree)
 # Expected Output: Minimum value in the tree: 20
 print("Minimum Value:")
 print(min_value.value)
+print("\n=========== TREE TESTS END ===========")
