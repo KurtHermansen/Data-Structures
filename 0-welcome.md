@@ -10,4 +10,4 @@ Welcome to Data Structures Tutorial. Programming in Python requires a knowledge 
 ## Contact
 For questions or comments, please send them to:
 Kurt Hermansen, BYU-Idaho, CSE 212 Programming with Data Structures
-[hermansenk1@byui.edu](hermansenk1@byui.edu)
+[hermansenk1@byui.edu]
