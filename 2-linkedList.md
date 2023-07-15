@@ -1,6 +1,6 @@
 # Linked List Data Structure
 
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)
 
 ## Introduction
 In this comprehensive Tutorial, we will explore the fascinating world of linked lists, a fundamental data structure in computer programming. Linked lists play a crucial role in many applications and algorithms, and understanding their concepts and operations is essential for any programmer or computer science enthusiast.
@@ -9,7 +9,7 @@ In programming, we often deal with collections of data that need to be stored, a
 
 This is where linked lists come to the rescue! Linked lists offer a dynamic and efficient alternative to arrays. Unlike arrays, linked lists do not require contiguous memory allocation. Instead, they use a series of interconnected nodes, each containing the data element and a reference (or pointer) to the next node in the sequence. This dynamic memory allocation allows for more flexibility in managing data and performing insertion and deletion operations.
 
-![Linked List Picture](https://github.com/KurtHermansen/Data-Structures/trees.png)
+![Linked List Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/trees.png)
 
 ## Anatomy of a Linked List
 To understand linked lists better, let's take a closer look at their structure. A linked list is composed of nodes, and each node consists of two main components:
@@ -231,4 +231,4 @@ else:
 Linked lists are versatile data structures that provide efficient insertion and deletion operations. They are particularly useful in scenarios where the data size is dynamic or frequent modifications are required. However, linked lists have limitations in terms of random access and additional memory overhead. Understanding the fundamentals of linked lists and their implementation in a programming language like Python can greatly enhance your ability to solve problems efficiently.
 
 ## Home
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)

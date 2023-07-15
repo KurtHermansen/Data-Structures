@@ -1,6 +1,6 @@
 # Stack Data Structure
 
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)
 
 ## Introduction
 In computer programming, data structures are essential for organizing and manipulating data efficiently. One such data structure is a stack, which follows the Last-In-First-Out (LIFO) principle. A stack is a collection of elements in which items are added and removed from the same end, known as the top of the stack.
@@ -9,7 +9,7 @@ Imagine a stack of plates, where you can only add a new plate on top or remove t
 
 The stack has two main operations: **push**, which adds an element to the top of the stack, and **pop**, which removes the topmost element from the stack. 
 
-![Stack Picture](https://github.com/KurtHermansen/Data-Structures/stack.jpg)
+![Stack Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/stack.jpg)
 
 ## Stack Operations
 Stacks typically support the following operations:
@@ -122,4 +122,4 @@ print(stack.is_empty())  # Output: False
 Stacks are versatile data structures with a wide range of applications. Stacks are useful when you need to maintain a Last-In-First-Out order of elements. They are commonly used in various algorithms and applications. Remember to consider the stack operations such as push, pop, peek, isEmpty, and size when working with stacks in Python.
 
 ## Home
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)

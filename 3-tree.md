@@ -1,6 +1,6 @@
 # Tree Data Structure
 
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)
 
 ## Introduction
 A tree data structure is a fundamental concept in computer science and plays a crucial role in various algorithms and applications. It provides a way to organize and represent hierarchical relationships between elements, making it a powerful tool for solving complex problems. In this tutorial, we will delve into the world of trees, terminology, implementation, and traversal techniques using Python.
@@ -11,7 +11,7 @@ This tutorial aims to provide you with a comprehensive understanding of trees, s
 
 A tree is a collection of nodes connected by edges. It is a non-linear data structure that represents a hierarchical relationship between elements. A tree consists of a root node and zero or more child nodes. Each child node can have its own children, forming a hierarchical structure.
 
-![Tree Picture](https://github.com/KurtHermansen/Data-Structures/linkedlist.png)
+![Tree Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/linkedlist.png)
 
 ## Tree Terminology
 
@@ -210,4 +210,4 @@ The binary search tree created in the previous test would look like this:
 Trees are powerful data structures that provide hierarchical organization and efficient access to elements. They play a vital role in algorithm design, data representation, and solving complex problems. By understanding and implementing trees in Python, you have gained a valuable skill set that can be applied to various domains, such as data analysis, graph algorithms, and decision-making processes.
 
 ## Home
--[Home Page](https://github.com/KurtHermansen/Data-Structures/0-welcome.md)
+-[Home Page](https://github.com/KurtHermansen/Data-Structures/blob/master/0-welcome.md)
