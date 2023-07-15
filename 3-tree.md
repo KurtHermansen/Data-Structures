@@ -198,12 +198,13 @@ print()
 ## Tree Structure
 
 The binary search tree created in the previous test would look like this:
-
+```python
         50
        /  \
      30    70
     /  \   / \
    20  40 60  80
+   ```
 
 ## Conclusion
 
