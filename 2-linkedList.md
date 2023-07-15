@@ -9,7 +9,7 @@ In programming, we often deal with collections of data that need to be stored, a
 
 This is where linked lists come to the rescue! Linked lists offer a dynamic and efficient alternative to arrays. Unlike arrays, linked lists do not require contiguous memory allocation. Instead, they use a series of interconnected nodes, each containing the data element and a reference (or pointer) to the next node in the sequence. This dynamic memory allocation allows for more flexibility in managing data and performing insertion and deletion operations.
 
-![Linked List Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/trees.png)
+![Linked List Picture](https://github.com/KurtHermansen/Data-Structures/blob/master/linkedList.png)
 
 ## Anatomy of a Linked List
 To understand linked lists better, let's take a closer look at their structure. A linked list is composed of nodes, and each node consists of two main components:
